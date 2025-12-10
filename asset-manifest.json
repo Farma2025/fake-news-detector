@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fake-news-detector/static/css/main.3032ee90.css",
-    "main.js": "/fake-news-detector/static/js/main.8434db58.js",
+    "main.css": "/fake-news-detector/static/css/main.758a4b34.css",
+    "main.js": "/fake-news-detector/static/js/main.d8c3b7fe.js",
     "static/js/453.78c07587.chunk.js": "/fake-news-detector/static/js/453.78c07587.chunk.js",
     "index.html": "/fake-news-detector/index.html",
-    "main.3032ee90.css.map": "/fake-news-detector/static/css/main.3032ee90.css.map",
-    "main.8434db58.js.map": "/fake-news-detector/static/js/main.8434db58.js.map",
+    "main.758a4b34.css.map": "/fake-news-detector/static/css/main.758a4b34.css.map",
+    "main.d8c3b7fe.js.map": "/fake-news-detector/static/js/main.d8c3b7fe.js.map",
     "453.78c07587.chunk.js.map": "/fake-news-detector/static/js/453.78c07587.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3032ee90.css",
-    "static/js/main.8434db58.js"
+    "static/css/main.758a4b34.css",
+    "static/js/main.d8c3b7fe.js"
   ]
 }
